@@ -1,6 +1,7 @@
 README.md
 setup.py
 exoflow/__init__.py
+exoflow/exo.py
 exoflow.egg-info/PKG-INFO
 exoflow.egg-info/SOURCES.txt
 exoflow.egg-info/dependency_links.txt

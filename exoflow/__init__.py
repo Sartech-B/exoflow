@@ -1,2 +1,3 @@
-def test():
-	print("Importing successful")
+from PIL import Image
+
+from .session import *
