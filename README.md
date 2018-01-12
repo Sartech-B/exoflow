@@ -6,7 +6,7 @@ Python Module for advanced image editing.
 2. Merge multiple images.
 
 # Installation
-Download current build from: https://pypi.python.org/pypi/exoflow/0.1
+Download current build from: https://pypi.python.org/pypi/exoflow
 
 # Contributions
 1. Find bugs and issues.

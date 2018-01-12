@@ -1,3 +1,3 @@
-from PIL import Image
+#from PIL import Image
 
 from .session import *
