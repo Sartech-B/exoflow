@@ -1,2 +1,2 @@
-# exoflow
+# Exoflow
 Python Module.
