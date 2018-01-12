@@ -1,10 +1,15 @@
 # Exoflow
 Python Module for advanced image editing.
 
-#Features
+# Features
 1. Spill image pixels in direction specified by a 2d vector.
 2. Merge multiple images.
 
-#Installation
+# Installation
 Download current build from: https://pypi.python.org/pypi/exoflow/0.1
 
+# Contributions
+1. Find bugs and issues.
+2. Fix bugs and issues.
+3. Implement features.
+4. Suggest new features.
