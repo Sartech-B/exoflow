@@ -1,6 +1,7 @@
 README.md
 setup.py
 exoflow/__init__.py
+exoflow/image_processing.py
 exoflow/session.py
 exoflow.egg-info/PKG-INFO
 exoflow.egg-info/SOURCES.txt
