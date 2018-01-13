@@ -7,14 +7,17 @@ Python Module for advanced image editing.
 
 # Installation
 Download current build from: https://pypi.python.org/pypi/exoflow
+
 Run the following command inside the downloaded directory:
 python setup.py install
 
 # Tutorial
 import exoflow as ef
 
-a = ef.Session('./path_of_image/image_name.jpg', './path_of_output_file/name_of_output_file.jpg')
+a = ef.Session('./path_of_image/image_name.jpg', './path_of_output_file/name_of_output_file.jpg') #the output file should be the exact copy of the input image, just make a copy of the input image prehand.
+
 a.spill(1, 2, 20)
+
 a.save()
 
 # Contributions
