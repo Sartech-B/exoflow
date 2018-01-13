@@ -1,10 +1,9 @@
-from __future__ import absolute_import
 import time
 
 from PIL import Image
 import math
 
-#from image_processing import *
+from .image_processing import *
 
 class Session():
 
